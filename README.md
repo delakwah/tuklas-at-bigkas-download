@@ -6,11 +6,11 @@ A public, lightweight download page for the Android app. This repository contain
 
 ## Current release
 
-- Version 0.1.2, Android version code 4
+- Version 0.1.3, Android version code 5
 - Android 7.0+ (API 24), ARM64
-- [Download APK](https://github.com/delakwah/tuklas-at-bigkas-download/releases/download/v0.1.2/Tuklas-at-Bigkas-0.1.2-20261118.apk)
-- 566,285,098 bytes
-- SHA-256: `0f50498a51c4baeeaa9bf25f85c34955f1c77725e320f3aa7cf87a1955c8bce5`
+- [Download APK](https://github.com/delakwah/tuklas-at-bigkas-download/releases/download/v0.1.3/Tuklas-at-Bigkas-0.1.3-20261118.apk)
+- 566,285,790 bytes
+- SHA-256: `588ec37d12ff9e99cafafa8a9d1240885c733a240090021a0ac1ab91b3819f76`
 
 ## Share or print
 
